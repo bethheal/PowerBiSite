@@ -27,14 +27,15 @@ body {
 .navbar a {
   color: white;
   text-align: center;
-  padding: 70px 70px;
+  padding: 40px 40px;
   text-decoration: none;
 }
 
 .navbar a:hover {
-  background-color: burlywood;
+  background-color: #456199;
   color: black;
 }
+
 
 .projectField {
   margin: 70px;
