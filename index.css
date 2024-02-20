@@ -70,7 +70,7 @@ body {
   #projectField {
     margin: 10px; /* Further reduced margin for smaller screens */
     height: 500px; /* Adjusted height for smaller screens */
-    width: 350px;
+    width: 300px;
 
   }
 }
